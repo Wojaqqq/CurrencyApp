@@ -6,8 +6,8 @@ CurrencyApp
 
 ## Autor/Autorzy
 
-- [Bartosz Nieroda](https://github.com/qymaensheel), bnieroda@student.agh.edu.pl
-- [Tomasz Wojakowski](https://github.com/Wojaqqq), twojakowski@student.agh.edu.pl
+- [Bartosz Nieroda](https://github.com/qymaensheel)
+- [Tomasz Wojakowski](https://github.com/Wojaqqq)
 
 ## Wizja aplikacji
 
@@ -21,24 +21,3 @@ Wymagania funkcjonalne:
 Wymagania pozafunkcjonalne:
 - Ekran menu i dwa ekrany z zawartością
 - Wykorzystanie z zewnętrznego API do aktualizacji danych na żywo
-
-## Wykorzystane narzędzia
-
-### Framework(i) iOS SDK
-
-AVSpeechSynthesizer
-Swift Charts
-
-
-### Frameworki/biblioteki zewnętrzne
-
-1. Alamofire (https://github.com/Alamofire/Alamofire) - Obsługa requestów pobierających dane z zewnętrznego API
-2. Money (https://github.com/danthorpe/Money) - Przechowywanie walut w specjalnych zmiennych
-
-## Dane
-
-Przechowywany będzie ostatnio pobrany przelicznik walut. Dane będą wykorzystywane w sytuacji braku internetu
-
-## Repozytorium
-
-[https://github.com/qymaensheel/CurrencyApp](https://github.com/qymaensheel/CurrencyApp)
